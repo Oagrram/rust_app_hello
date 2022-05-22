@@ -1,0 +1,1 @@
+# rust_app_hello
