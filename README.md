@@ -11,7 +11,3 @@ Steps to run:
      main.rs (Source file) <br/>
 4. Build code: cargo build
 5. Run code: cargo run
-
-## Author
-
-[@kvasukib](https://twitter.com/Karthikvb17)
